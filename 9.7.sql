@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT teacher.name), COUNT(DISTINCT mobile) FROM teacher
